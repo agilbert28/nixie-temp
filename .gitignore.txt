@@ -1,5 +1,10 @@
 __Previews/
 History/
+node_modules/
+functionality_list
+yarn.lock
+.vscode/
+package.json
 * Logs*
 Project Outputs *
 *.DSNlck
